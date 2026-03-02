@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワルになりたい",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:48:04.654211Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワルになりたい",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ワルになりたい_サンボマスター.txt"
+    }
+  ]
+}
